@@ -1,1 +1,1 @@
-# projeto2-instagram
+# instagram-hub
